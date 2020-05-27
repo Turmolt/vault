@@ -17,6 +17,8 @@ Add `[vault.core :refer [vault]]` to your requirements and then query for your k
 (def token (vault :token))
 ```
 
+Make sure to exclude the `.vault` file from your version control if you want to keep them secure
+
 ## License
 
 Copyright © 2020 Sam Gates
