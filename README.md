@@ -1,6 +1,6 @@
 # vault
 
-the simplest secret management system available for clojure
+The simplest secret management system available for clojure
 
 ## Usage
 
