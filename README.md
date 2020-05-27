@@ -4,7 +4,7 @@ the simplest secret management system available for clojure
 
 ## Usage
 
-Create a `.vault` file to the project directory containing a map of the keys you wish to store.
+Create a `.vault` file in the project directory containing a map of the keys you wish to store.
 
 ```
 {:token "lksj19sndox91kntilamxk"
