@@ -1,5 +1,7 @@
 # vault
 
+[![Clojars Project](https://img.shields.io/clojars/v/vault.svg)](https://clojars.org/vault)
+
 The simplest secret management system available for Clojure.
 
 ## Usage
